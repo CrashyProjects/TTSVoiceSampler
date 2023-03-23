@@ -1,5 +1,5 @@
 # TTS Voice Sampler
-TTS Voice Sampler is a Python script that allows you to generate audio files from text using text-to-speech (TTS) technology. With this program you can select different voices and modify the rate of speech to generate audio files that meet your specific needs.
+TTS Voice Sampler is a Python script that allows you to generate audio files from text using text-to-speech (TTS) technology. With this program you can select different voices and modify the rate of speech to generate audio files that meet your specific needs. This script was **designed for Windows**, if you plan to use this script on a Linux distribution, note that it is unlikely to work as expected. 
 
 ## Requirements
 -   Python 3.6 or higher
@@ -75,7 +75,7 @@ If you're using Windows, you can easily add new voices by searching for "Speech"
 
 ![Add voice on Windows 10](/docs/addVoice.png)
  
-If you're using Linux, there are various ways to obtain additional TTS voices depending on your distribution.
+If you're using Linux, there are various ways to obtain additional TTS voices depending on your distribution. Remeber that this script is designed for Windows, if you plan to use this script on a Linux distribution, note that it is unlikely to work as expected. 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
