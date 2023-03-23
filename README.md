@@ -26,7 +26,7 @@ The program accepts the following arguments:
 
 Note that the program will generate the audio file/s in the "./audio" directory, with a file name that includes the first three characters of the text and the name of the voice used. If the "./audio" folder does not exist, the program will create it.
 
-##Example Output
+## Example Output
 Suppose we want to generate speech for the text "Hello, world!" using the program. Here's an example command to run the program:
 ```
 python TTSVoiceSampler.py "Hello, world!"
@@ -79,6 +79,7 @@ If you're using Linux, there are various ways to obtain additional TTS voices de
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 **IMPORTANT**: Please note that the voice used in a conversion is subject to the
 license terms of the respective owner. It is important to be aware of these 
-terms before using or distributing the converted content.
+terms before using or distributing the generated content.
