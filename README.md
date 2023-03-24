@@ -3,7 +3,7 @@ TTS Voice Sampler is a Python script that allows you to generate audio files fro
 
 This script was **designed for Windows**, if you plan to use this script on a Linux distribution, note that it is unlikely to work as expected. 
 
-This script was designed considering that the default TTS voices folder was not changed.
+This script was written with the assumption that the default TTS voice folder has not been altered.
 
 ## Requirements
 -   Python 3.6 or higher
